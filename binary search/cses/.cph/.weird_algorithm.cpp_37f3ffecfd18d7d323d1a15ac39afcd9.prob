@@ -1,0 +1,1 @@
+{"name":"Local: weird_algorithm","url":"d:\\C++\\binary search\\cses\\weird_algorithm.cpp","tests":[{"id":1644732468267,"input":"1\n1 1 5","output":"128"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\binary search\\cses\\weird_algorithm.cpp","group":"local","local":true}
